@@ -1,5 +1,5 @@
 # chairmans-census
-A Jupyter Notebook tool to find in-game demographic data for a Final Fantasy XIV Free Company (guild) or other group
+A Jupyter Notebook tool to find in-game demographic data for a Final Fantasy XIV Free Company (guild)
 
 To use this tool, you'll need to provide your own [XIVAPI](https://xivapi.com) key.
 
