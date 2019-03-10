@@ -1,7 +1,9 @@
 # chairmans-census
-A tool to find in-game demographic data for a Final Fantasy XIV Free Company (guild) or other group
+A Jupyter Notebook tool to find in-game demographic data for a Final Fantasy XIV Free Company (guild) or other group
 
 To use this tool, you'll need to provide your own [XIVAPI](https://xivapi.com) key.
+
+Install the [Anaconda distribution](https://www.anaconda.com/downloads) and run this file locally on your own Jupyter Notebook server, or run it on [Binder](https://mybinder.org/v2/gh/hunkyjimpjorps/chairmans-census/master).
 
 Caveats for use:
 * Provide the full FC name and server name; if you have a short FC name or one that returns multiple search results from The Lodestone, you may have to manually look up the FC's ID number yourself
